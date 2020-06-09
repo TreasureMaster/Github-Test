@@ -16,3 +16,7 @@
 {% endtab %}
 {% endtabs %}
 
+{% hint style="info" %}
+Какой-то совет
+{% endhint %}
+
