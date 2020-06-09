@@ -6,7 +6,7 @@ description: Это просто тест функционала GitBook
 
 Тестируем GitBook
 
-{% page-ref page="vtoraya-stranica.md" %}
+{% page-ref page="vtoraya-stranica/" %}
 
 
 
