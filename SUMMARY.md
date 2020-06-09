@@ -9,7 +9,3 @@
 * [Страница группы 1](gruppa-stranic/stranica-gruppy-1.md)
 * [Страница группы 2](gruppa-stranic/stranica-gruppy-2.md)
 
-## Test
-
-* [Новая тестовая страница](test/novaya-testovaya-stranica.md)
-
