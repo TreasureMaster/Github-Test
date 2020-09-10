@@ -9,5 +9,13 @@
 ## Группа страниц
 
 * [Страница группы 1](gruppa-stranic/stranica-gruppy-1.md)
-* [Страница группы 2](gruppa-stranic/stranica-gruppy-2.md)
+
+## Группа 2
+
+* [Untitled](gruppa-2/untitled.md)
+* [Страница группы 2](gruppa-2/stranica-gruppy-2.md)
+
+## Группа 3
+
+* [Untitled](gruppa-3/untitled.md)
 
